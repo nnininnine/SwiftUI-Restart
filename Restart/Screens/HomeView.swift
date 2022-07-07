@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct HomeView: View {
-  // MARK: Property
+  // MARK: Properties
 
   @AppStorage("onboarding") var isOnboardingViewActive: Bool = false
 
